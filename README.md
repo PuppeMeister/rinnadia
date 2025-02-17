@@ -1,2 +1,2 @@
-# rinnada
+# rinnadia
 github blog with jekyll
