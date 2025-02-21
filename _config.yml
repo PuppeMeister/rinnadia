@@ -1,5 +1,5 @@
 title: test title
 description: test description
-baseurl: ""
+#baseurl: ""
 url: "https://rinnadia.github.io"
 theme: minima
